@@ -1,0 +1,18 @@
+{
+	"key.category.lumina.main": "Lumina",
+	"key.lumina.clickgui": "Open ClickGUI",
+	"key.lumina.toggle_hud": "Toggle HUD",
+	"key.lumina.toggle_fullbright": "Toggle Fullbright",
+	"key.lumina.toggle_autoclicker": "Toggle AutoClicker",
+	"key.lumina.toggle_sprint": "Toggle Sprint",
+	"key.lumina.toggle_fly": "Toggle Fly",
+	"key.lumina.toggle_speed": "Toggle Speed",
+	"key.lumina.toggle_nofall": "Toggle NoFall",
+	"key.lumina.toggle_playeresp": "Toggle PlayerESP",
+	"key.lumina.toggle_zoom": "Toggle Zoom",
+	"key.lumina.toggle_spotify": "Toggle Spotify HUD",
+	"key.lumina.spotify_playpause": "Spotify: Play/Pause",
+	"key.lumina.spotify_next": "Spotify: Next",
+	"key.lumina.spotify_previous": "Spotify: Previous",
+	"key.lumina.spotify_login": "Spotify: Login"
+}
